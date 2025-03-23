@@ -1,0 +1,13 @@
+.mybg{
+    width: 70vw;
+    height: 250px;
+    margin: auto;
+    background-image: url(4-slide-desk-new.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.mybg2{
+    width: 98vw;
+    height: 400px;
+    background-image: url(1600x406opy.png);
+}
